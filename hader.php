@@ -6,11 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        include("hader.php");        
-    ?>
-    <?php
-    include("footer.php");
-    ?>
+    <a href="home.php">Home</a>
+    <a href="about.php">About</a>
+    <a href="contact.php">Contact us</a>
+    <a href="services.php">Services</a>
+    <a href="login.php">Login</a>
+
 </body>
 </html>

@@ -6,11 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        include("hader.php");        
-    ?>
-    <?php
-    include("footer.php");
-    ?>
+    <footer>
+        <p>&copy; <?php echo date("Y"); ?> This is testing website.</p>
+    </footer>
 </body>
 </html>

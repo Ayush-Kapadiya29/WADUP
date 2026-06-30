@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
+     <?php
         include("hader.php");        
     ?>
     <?php

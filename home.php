@@ -9,6 +9,8 @@
     <?php
         include("hader.php");        
     ?>
+    <h1>Welcome to the Home Page</h1>
+    <p>This is my header and footer.</p>
     <?php
     include("footer.php");
     ?>
